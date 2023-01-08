@@ -2,7 +2,7 @@
   Portfolio Website - SLIMANI MOHAMMED <br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./screen.png" />
+  <img alt="Demo" src="./screen.jpeg" />
 </div>
 
 <br/>
